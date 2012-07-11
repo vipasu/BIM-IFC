@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Revit IFC export alternate UI</Name>
+    <Assembly>[TARGETDIR]IFCExportUIOverride.dll</Assembly>
+    <AddInId>e78da2e3-7e89-464c-97cd-2212c8be3fa8</AddInId>
+    <FullClassName>BIM.IFC.Export.UI.IFCCommandOverrideApplication</FullClassName>
+    <VendorId>IFCX</VendorId>
+	<VendorDescription>Revit IFC export alternate UI, http://sourceforge.net/projects/ifcexporter/</VendorDescription>
+  </AddIn>
+</RevitAddIns>

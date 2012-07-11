@@ -1,0 +1,5 @@
+C:\Users\trent\Documents\IFC exporter\BIM.IFC\Source\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\trent\Documents\IFC exporter\BIM.IFC\Source\bin\Debug\BIM.IFC.dll
+C:\Users\trent\Documents\IFC exporter\BIM.IFC\Source\bin\Debug\BIM.IFC.pdb
+C:\Users\trent\Documents\IFC exporter\BIM.IFC\Source\obj\Debug\BIM.IFC.dll
+C:\Users\trent\Documents\IFC exporter\BIM.IFC\Source\obj\Debug\BIM.IFC.pdb

@@ -1,0 +1,5 @@
+C:\Users\trent\Documents\IFC exporter\BIM.IFC\Install\Modify Addin file\bin\Debug\Modify_Addin_file.exe
+C:\Users\trent\Documents\IFC exporter\BIM.IFC\Install\Modify Addin file\bin\Debug\Modify_Addin_file.pdb
+C:\Users\trent\Documents\IFC exporter\BIM.IFC\Install\Modify Addin file\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\trent\Documents\IFC exporter\BIM.IFC\Install\Modify Addin file\obj\Debug\Modify_Addin_file.exe
+C:\Users\trent\Documents\IFC exporter\BIM.IFC\Install\Modify Addin file\obj\Debug\Modify_Addin_file.pdb

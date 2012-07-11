@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IFCExporterUI", "Source\IFCExporterUI.csproj", "{BF694550-5BEB-4DCF-8EC2-A5904690DC17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modify Addin file", "Install\Modify Addin file\Modify Addin file.csproj", "{3CDC3733-3051-446F-AAA4-CA326BA75C46}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "IFCExporterUI Setup", "Install\Setup\IFCExporterUI Setup.vdproj", "{32EC0C83-CEEC-4ECA-BC9C-DC078B752009}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF694550-5BEB-4DCF-8EC2-A5904690DC17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF694550-5BEB-4DCF-8EC2-A5904690DC17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF694550-5BEB-4DCF-8EC2-A5904690DC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF694550-5BEB-4DCF-8EC2-A5904690DC17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CDC3733-3051-446F-AAA4-CA326BA75C46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CDC3733-3051-446F-AAA4-CA326BA75C46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CDC3733-3051-446F-AAA4-CA326BA75C46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CDC3733-3051-446F-AAA4-CA326BA75C46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32EC0C83-CEEC-4ECA-BC9C-DC078B752009}.Debug|Any CPU.ActiveCfg = Debug
+		{32EC0C83-CEEC-4ECA-BC9C-DC078B752009}.Debug|Any CPU.Build.0 = Debug
+		{32EC0C83-CEEC-4ECA-BC9C-DC078B752009}.Release|Any CPU.ActiveCfg = Release
+		{32EC0C83-CEEC-4ECA-BC9C-DC078B752009}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

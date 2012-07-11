@@ -1,0 +1,40 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIM.IFC", "Source\BIM.IFC.csproj", "{BCE5141A-291B-4CD8-A69B-7B9345AA00E9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Install", "Install", "{88C55E9A-2767-48B7-A035-E3D864C4FF09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modify Addin file", "Install\Modify Addin file\Modify Addin file.csproj", "{8B9B4068-2893-4615-99B2-C4F4423BD129}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BIM.IFC Setup", "Install\Setup\BIM.IFC Setup.vdproj", "{0D735E5B-6DA7-4F49-BEB3-D045E51E4902}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCE5141A-291B-4CD8-A69B-7B9345AA00E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE5141A-291B-4CD8-A69B-7B9345AA00E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE5141A-291B-4CD8-A69B-7B9345AA00E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE5141A-291B-4CD8-A69B-7B9345AA00E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B9B4068-2893-4615-99B2-C4F4423BD129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B9B4068-2893-4615-99B2-C4F4423BD129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B9B4068-2893-4615-99B2-C4F4423BD129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B9B4068-2893-4615-99B2-C4F4423BD129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D735E5B-6DA7-4F49-BEB3-D045E51E4902}.Debug|Any CPU.ActiveCfg = Debug
+		{0D735E5B-6DA7-4F49-BEB3-D045E51E4902}.Debug|Any CPU.Build.0 = Debug
+		{0D735E5B-6DA7-4F49-BEB3-D045E51E4902}.Release|Any CPU.ActiveCfg = Release
+		{0D735E5B-6DA7-4F49-BEB3-D045E51E4902}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8B9B4068-2893-4615-99B2-C4F4423BD129} = {88C55E9A-2767-48B7-A035-E3D864C4FF09}
+		{0D735E5B-6DA7-4F49-BEB3-D045E51E4902} = {88C55E9A-2767-48B7-A035-E3D864C4FF09}
+	EndGlobalSection
+	GlobalSection(DPCodeReviewSolutionGUID) = preSolution
+		DPCodeReviewSolutionGUID = {00000000-0000-0000-0000-000000000000}
+	EndGlobalSection
+EndGlobal
